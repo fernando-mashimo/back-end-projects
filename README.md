@@ -48,4 +48,4 @@ Make sure to check the project's README file for detailed instructions and speci
 If you have any questions, feedback, or need support related to any project in this repository, please let me know by sending an e-mail.
 I appreciate your feedback!
 
-- Fernando Mashimo [fernando.mashimo@yahoo.com.br](mailto:fernando.mashimo@yahoo.com.br)
+Fernando Mashimo [fernando.mashimo@yahoo.com.br](mailto:fernando.mashimo@yahoo.com.br)

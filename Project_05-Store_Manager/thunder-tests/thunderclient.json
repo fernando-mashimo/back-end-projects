@@ -1,0 +1,159 @@
+[
+  {
+    "_id": "12cf1931-f8c4-41d1-a480-82975bc99bb0",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "POST /sales",
+    "url": "localhost:3001/sales",
+    "method": "POST",
+    "sortNum": 10000,
+    "created": "2023-04-27T13:28:39.088Z",
+    "modified": "2023-04-27T13:28:39.088Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "[\n  {\n    \"productId\": 1,\n    \"quantity\": 1\n  },\n  {\n    \"productId\": 2,\n    \"quantity\": 5\n  }\n]",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "f5eb7dec-036f-4d4f-be6c-4acfb56f22e8",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "POST /products",
+    "url": "localhost:3001/products",
+    "method": "POST",
+    "sortNum": 20000,
+    "created": "2023-04-27T13:28:55.407Z",
+    "modified": "2023-04-27T13:28:55.407Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"asdas\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "bfb89238-cb72-4713-9136-5c3fbdac9373",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "GET /products",
+    "url": "localhost:3001/products/",
+    "method": "GET",
+    "sortNum": 30000,
+    "created": "2023-04-27T13:29:19.081Z",
+    "modified": "2023-04-27T13:29:19.081Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "9d83e218-9417-4739-bd74-17effd959370",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "/sales",
+    "url": "localhost:3001/sales/",
+    "method": "GET",
+    "sortNum": 40000,
+    "created": "2023-04-28T17:14:32.375Z",
+    "modified": "2023-04-28T23:47:49.894Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "4b02c2b5-a3a0-4927-afda-e5cebf23860a",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "/products/:id",
+    "url": "localhost:3001/products/99",
+    "method": "PUT",
+    "sortNum": 35000,
+    "created": "2023-04-29T16:46:03.139Z",
+    "modified": "2023-04-29T22:40:34.150Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Marreta do Luffy\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "5cd59374-8f91-4712-bce0-7eeaff7185f0",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "/products/:id",
+    "url": "localhost:3001/products/4",
+    "method": "DELETE",
+    "sortNum": 37500,
+    "created": "2023-04-29T23:43:37.663Z",
+    "modified": "2023-04-29T23:44:29.064Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Marreta do Luffy\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "a8920a66-1774-4136-a487-53b5d57a789e",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "/sales/:id",
+    "url": "localhost:3001/sales/3",
+    "method": "DELETE",
+    "sortNum": 50000,
+    "created": "2023-04-30T00:21:58.078Z",
+    "modified": "2023-04-30T00:22:25.661Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "e3bee812-88d3-44c7-a973-385a7a88a1c8",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "/sales/:id",
+    "url": "localhost:3001/sales/2",
+    "method": "PUT",
+    "sortNum": 60000,
+    "created": "2023-04-30T01:16:01.770Z",
+    "modified": "2023-04-30T01:24:04.252Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "[\n  {\n    \"productId\": 1,\n    \"quantity\": 999\n  },\n  {\n    \"productId\": 2,\n    \"quantity\": -500\n  }\n]",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "1093be05-b1c3-4149-b807-b54d61fb65e8",
+    "colId": "2fe1aec8-0345-4047-b324-3102d7f93174",
+    "containerId": "",
+    "name": "GET /products/search?q=",
+    "url": "localhost:3001/products/search?q=Mart",
+    "method": "GET",
+    "sortNum": 32500,
+    "created": "2023-04-30T04:31:24.328Z",
+    "modified": "2023-04-30T04:57:29.974Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "q",
+        "value": "Mart",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  }
+]

@@ -1,0 +1,23 @@
+schemaVersion: "2.0.0"
+commandTests:
+  - name: "Testando versão do node"
+    command: "node"
+    args: ["-v"]
+    expectedOutput: ["^v14"]
+metadataTest:
+  exposedPorts: ["3001"]
+  entrypoint: ["npm"]
+  cmd: ["start"]
+fileExistenceTests:
+  - name: "Pasta node_nodules existe"
+    path: "/app/node_modules"
+    shouldExist: true
+  - name: "Pasta src existe"
+    path: "/app/src"
+    shouldExist: true
+  - name: "package.json existe"
+    path: "/app/package.json"
+    shouldExist: true
+  - name: "package-lock.json existe"
+    path: "/app/package-lock.json"
+    shouldExist: true

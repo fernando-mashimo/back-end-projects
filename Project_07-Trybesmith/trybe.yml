@@ -1,0 +1,10 @@
+ignore_files:
+  - __tests__
+  - .eslintrc.json
+  - .eslintignore
+  - .mocharc.json
+  - .nycrc.json
+  - jest.config.js
+  - .sequelizerc
+  - .github
+  

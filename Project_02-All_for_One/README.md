@@ -2,7 +2,7 @@
 ### What will we do?
 Woohoo, you have reached the end of the first SQL block, so now you will have the opportunity to put all this knowledge into practice.
 
-Maybe you have already gotten used to our beloved sakila database, but now we have something new. We have chosen a new database for you to work on in a fresh environment for this project.
+Maybe you have already gotten used to our beloved sakila database, but now we have something new. We have chosen a new database for you to work on in a fresh environment for this project: the `Northwind` database developed by Microsoft for practicing purposes.
 
 We hope that, by the end of this project, you will be ready to create solutions that involve the main commands and initial concepts of SQL.
 

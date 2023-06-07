@@ -20,6 +20,9 @@ Thank You!
 - `SOLID Principles`: A set of design principles that promote maintainable and extensible code by emphasizing separation of concerns, dependency inversion, and other key practices.
 - `MSC Architecture`: A design pattern that separates concerns by dividing an application into three layers: Model, Service, and Controller.
 - `Docker`: A containerization platform that enables developers to package applications and their dependencies into lightweight, portable containers.
+- `Mocha`: A feature-rich testing framework for Node.js that allows organizing and executing test cases.
+- `Chai`: An assertion library for Node.js that provides expressive and readable assertions.
+- `Sinon`: A powerful library for Node.js that provides test spies, stubs, and mocks to aid in testing and code isolation.
 
 ## Project Structure
 

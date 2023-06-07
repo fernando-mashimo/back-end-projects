@@ -1,8 +1,8 @@
 # Back-End Projects Repository
 
-Welcome to my Back-End Projects Repository! This repository is a collection of various back-end projects that showcase the technologies I have learned so far in the web development course at [Trybe](https://betrybe.com/).
+Welcome to my `Back-End Projects Repository`! This repository is a collection of various back-end projects that showcase the technologies I have learned so far in the web development course at [Trybe](https://betrybe.com/).
 
-If you're a tech recruiter or a tech enthusiast, please let me know your thoughts about the projects and my code! I am always willing to learn and improve my coding skills and your feedback will be very much appreciated!
+If you're a `tech recruiter` or a `tech enthusiast`, please let me know your thoughts about the projects and my code! I am always willing to learn and improve my coding skills and your feedback will be very much appreciated!
 
 And if you have any questions or would like to get in touch, feel free to reach out to me at [fernando.mashimo@yahoo.com.br](mailto:fernando.mashimo@yahoo.com.br).
 
@@ -10,14 +10,14 @@ Thank You!
 
 ## Technologies Used
 
-- TypeScript: A superset of JavaScript that brings static typing and improved tooling to the language, enhancing productivity and code quality.
-- JavaScript: The ubiquitous programming language that powers the web.
-- MySQL: A popular and reliable open-source relational database management system.
-- Sequelize ORM: A powerful Object-Relational Mapping library for Node.js that provides an easy-to-use API for interacting with databases.
-- Object-Oriented Programming (OOP): A programming paradigm that focuses on encapsulating data and behavior into reusable objects, promoting modularity and code organization.
-- SOLID Principles: A set of design principles that promote maintainable and extensible code by emphasizing separation of concerns, dependency inversion, and other key practices.
-- MSC Architecture: A design pattern that separates concerns by dividing an application into three layers: Model, Service, and Controller.
-- Docker: A containerization platform that enables developers to package applications and their dependencies into lightweight, portable containers.
+- `TypeScript`: A superset of JavaScript that brings static typing and improved tooling to the language, enhancing productivity and code quality.
+- `JavaScript`: The ubiquitous programming language that powers the web.
+- `MySQL`: A popular and reliable open-source relational database management system.
+- `Sequelize` ORM: A powerful Object-Relational Mapping library for Node.js that provides an easy-to-use API for interacting with databases.
+- `Object-Oriented Programming (OOP)`: A programming paradigm that focuses on encapsulating data and behavior into reusable objects, promoting modularity and code organization.
+- `SOLID Principles`: A set of design principles that promote maintainable and extensible code by emphasizing separation of concerns, dependency inversion, and other key practices.
+- `MSC Architecture`: A design pattern that separates concerns by dividing an application into three layers: Model, Service, and Controller.
+- `Docker`: A containerization platform that enables developers to package applications and their dependencies into lightweight, portable containers.
 
 ## Project Structure
 

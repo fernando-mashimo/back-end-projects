@@ -42,11 +42,11 @@ To get started with any project in this repository, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/fernando-mashimo/back-end-projects.git`
 2. Navigate to the project directory: `cd project-name`
-3. Run project's services in containers (if needed): `docker-compose up -d`
-4. Install the dependencies: `npm install`
+3. Run project's services in containers (if required): `docker-compose up -d`
+4. Install the dependencies (use container terminal if required): `npm install`
 5. Configure the environment variables and database credentials as/if needed.
 6. Start the application: `npm run dev` or `npm start`
-7. Run local tests: `npm test`
+7. Use your preferred SQL client to test endpoints: e.g. `mySQL Workbench` or `Beekeeper Studio`
 8. Refer to `package.json` files within each project folder for additional scripts and check dependencies.
 
 Make sure to check the project's README file for a brief description about its scope.

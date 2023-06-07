@@ -1,6 +1,6 @@
 # Back-End Projects Repository
 
-Welcome to my `Back-End Projects Repository`! This repository is a collection of various back-end projects that showcase the technologies I have learned so far in the web development course at [Trybe](https://betrybe.com/).
+Welcome to my `Back-End Projects Repository`! This repository is a collection of various back-end projects that showcase the technologies I have learned so far.
 
 If you're a `tech enthusiast` or a `tech recruiter`, please let me know your thoughts about the projects and my code! I am always willing to learn and improve my coding skills and your feedback will be very much appreciated!
 

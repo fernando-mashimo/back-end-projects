@@ -10,5 +10,3 @@ This project is important to solidify the learning from the TypeScript section. 
 For this project, you will develop a CRUD (Create, Read, Update, and Delete) of medieval items in the form of an API using TypeScript.
 
 You will create some endpoints that will read from and write to a database using Sequelize.
-
-Please read the README.md file of the project carefully for a detailed explanation of how to develop and submit your project.

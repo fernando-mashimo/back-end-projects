@@ -8,11 +8,12 @@ And if you have any questions or would like to get in touch, feel free to reach 
 
 Thank You!
 
-## Technologies Used
+## Technologies and Methodologies Used
 
 - `TypeScript`: A superset of JavaScript that brings static typing and improved tooling to the language, enhancing productivity and code quality.
 - `JavaScript`: The ubiquitous programming language that powers the web.
 - `MySQL`: A popular and reliable open-source relational database management system.
+- `Database Modelling / Normalization`: Database normalization is the process of structuring data in a database to eliminate redundancy and improve efficiency through organizing data into multiple tables and defining relationships between them.
 - `Sequelize` ORM: A powerful Object-Relational Mapping library for Node.js that provides an easy-to-use API for interacting with databases.
 - `Object-Oriented Programming (OOP)`: A programming paradigm that focuses on encapsulating data and behavior into reusable objects, promoting modularity and code organization.
 - `SOLID Principles`: A set of design principles that promote maintainable and extensible code by emphasizing separation of concerns, dependency inversion, and other key practices.

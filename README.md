@@ -14,6 +14,7 @@ Thank You!
 - `JavaScript`: The ubiquitous programming language that powers the web.
 - `MySQL`: A popular and reliable open-source relational database management system.
 - `Database Modelling / Normalization`: Database normalization is the process of structuring data in a database to eliminate redundancy and improve efficiency through organizing data into multiple tables and defining relationships between them.
+- `Node.js`: A powerful JavaScript runtime environment that enables running JavaScript on the server-side, facilitating the creation of fast, scalable, and event-driven web applications.
 - `Sequelize` ORM: A powerful Object-Relational Mapping library for Node.js that provides an easy-to-use API for interacting with databases.
 - `Object-Oriented Programming (OOP)`: A programming paradigm that focuses on encapsulating data and behavior into reusable objects, promoting modularity and code organization.
 - `SOLID Principles`: A set of design principles that promote maintainable and extensible code by emphasizing separation of concerns, dependency inversion, and other key practices.

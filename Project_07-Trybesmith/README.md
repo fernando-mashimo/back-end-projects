@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Project Trybesmith
+### Why is this important?
+This project is important to solidify the learning from the TypeScript section. With it, you will practice the new syntax as well as typing variables and functions, making your code more understandable and robust.
+
+### What will we evaluate?
+- Declaring variables and functions with TypeScript typings.
+- Building a Node Express API using TypeScript.
+
+### What should I develop?
+For this project, you will develop a CRUD (Create, Read, Update, and Delete) of medieval items in the form of an API using TypeScript.
+
+You will create some endpoints that will read from and write to a database using Sequelize.
+
+Please read the README.md file of the project carefully for a detailed explanation of how to develop and submit your project.

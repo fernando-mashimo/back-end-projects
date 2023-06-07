@@ -2,7 +2,7 @@
 
 Welcome to my `Back-End Projects Repository`! This repository is a collection of various back-end projects that showcase the technologies I have learned so far in the web development course at [Trybe](https://betrybe.com/).
 
-If you're a `tech recruiter` or a `tech enthusiast`, please let me know your thoughts about the projects and my code! I am always willing to learn and improve my coding skills and your feedback will be very much appreciated!
+If you're a `tech enthusiast` or a `tech recruiter`, please let me know your thoughts about the projects and my code! I am always willing to learn and improve my coding skills and your feedback will be very much appreciated!
 
 And if you have any questions or would like to get in touch, feel free to reach out to me at [fernando.mashimo@yahoo.com.br](mailto:fernando.mashimo@yahoo.com.br).
 

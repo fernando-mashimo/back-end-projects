@@ -41,6 +41,8 @@ To get started with any project in this repository, follow these steps:
 3. Install the dependencies: `npm install`
 4. Configure the environment variables and database credentials as/if needed.
 5. Start the application: `npm run dev` or `npm start`
+6. Run local tests: `npm test`.
+7. Refer to `package.json` file for additional scripts.
 
 Make sure to check the project's README file for detailed instructions and specific requirements.
 
